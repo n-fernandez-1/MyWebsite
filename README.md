@@ -4,7 +4,7 @@ layout: default
 title: Home
 ---
 Welcome to my research website! Use the navigation links to explore:
-- [Research](research.md)
+- [Research](Research.md)
 - [Publications](publications.md)
 - [Background](background.md)
 
